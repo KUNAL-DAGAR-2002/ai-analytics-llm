@@ -6,3 +6,5 @@ __pycache__/
 .env
 streamlit.err.log
 streamlit.out.log
+.streamlit
+.vscode
